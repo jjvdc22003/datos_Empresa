@@ -726,7 +726,7 @@ body {
   position: absolute;
   left: 32px;
   right: 31px;
-  /*top: 341px;*/
+  top: auto;
   width: auto;
   height: 150px;
   display: flex;
