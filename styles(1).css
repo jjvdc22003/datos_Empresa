@@ -27,13 +27,16 @@
 }
 
 body {
-  margin: 0 auto;
+  margin: 0;
   padding: 0;
   background-image: url('./u0.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center;
+  width: 100vw;
+  min-width:1280px;
+  min-height:560px;
 }
 
 .form_sketch {
@@ -43,11 +46,13 @@ body {
 
 #base {
   width: 76%;
+  min-height:560px;
   height: 100vh;
   position: absolute;
   left: 50%;
   transform: translateX(-50%);
   z-index: 0;
+  min-width: 972px;
 }
 
 #u1_div {
