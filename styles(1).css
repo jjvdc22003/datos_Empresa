@@ -873,10 +873,11 @@ body {
 #u34 {
   border-width: 0px;
   position: absolute;
-  left: 31%;
+  left: 313px;
+  right: 21px;
   top: 162px;
   bottom: 58px;
-  width: 67%;
+  width: auto;
 }
 
 #u34_state0 {
