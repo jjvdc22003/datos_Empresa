@@ -36,6 +36,7 @@ body {
   background-position: center;
   width: 100vw;
   min-width: 1280px;
+  min-height:560px ;
 }
 
 .form_sketch {
@@ -51,6 +52,7 @@ body {
   transform: translateX(-50%);
   z-index: 0;
   min-width: 972px;
+  min-height:560px ;
 }
 
 #u1_div {
