@@ -975,18 +975,19 @@ body {
 }
 
 #u38_input {
+  resize: none;
   position: absolute;
   left: 0px;
   top: 0px;
   width: 100%;
   height: 146px;
   padding: 2px 2px 2px 2px;
-  font-family: 'Arial Normal', 'Arial', sans-serif;
-  font-weight: 400;
+  font-family: 'Poppins-Light', 'Poppins Light', 'Poppins', sans-serif;
+  font-weight: 200;
   font-style: normal;
-  font-size: 13px;
-  letter-spacing: normal;
-  color: #000000;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 16px;
   vertical-align: none;
   text-align: left;
   text-transform: none;
@@ -995,18 +996,19 @@ body {
 }
 
 #u38_input.disabled {
+  resize: none;
   position: absolute;
   left: 0px;
   top: 0px;
   width: 100%;
   height: 146px;
   padding: 2px 2px 2px 2px;
-  font-family: 'Arial Normal', 'Arial', sans-serif;
-  font-weight: 400;
+  font-family: 'Poppins-Light', 'Poppins Light', 'Poppins', sans-serif;
+  font-weight: 200;
   font-style: normal;
-  font-size: 13px;
-  letter-spacing: normal;
-  color: #000000;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 16px;
   vertical-align: none;
   text-align: left;
   text-transform: none;
@@ -1031,6 +1033,12 @@ body {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
+  font-family: 'Poppins-Light', 'Poppins Light', 'Poppins', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 16px;
 }
 
 #u38 {
@@ -1069,6 +1077,12 @@ body {
   -moz-box-shadow: none;
   -webkit-box-shadow: none;
   box-shadow: none;
+  font-family: 'Poppins-Light', 'Poppins Light', 'Poppins', sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 12px;
+  letter-spacing: 1px;
+  line-height: 16px;
 }
 
 #u38.disabled {}
