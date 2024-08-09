@@ -35,7 +35,7 @@ body {
   background-attachment: fixed;
   background-position: center;
   width: 100vw;
-  min-width:1280px;
+  min-width:972px;
   min-height:560px;
   display: flex;
   flex-wrap: nowrap;
@@ -750,9 +750,8 @@ body {
   border-width: 0px;
   position: absolute;
   left: 32px;
-  right: calc(69% + 31px);
   top: 341px;
-  width: auto;
+  width: 250px;
   height: 150px;
   display: flex;
 }
@@ -791,9 +790,8 @@ body {
   border-width: 0px;
   position: absolute;
   left: 44px;
-  right: calc(69% + 44px);
   top: 382px;
-  width: auto;
+  width: 225px;
   height: 64px;
 }
 
@@ -3658,7 +3656,7 @@ body {
 #u83 {
   border-width: 0px;
   position: absolute;
-  right: calc(69% + 49px);
+  left: 158px;
   top: 455px;
   width: 106px;
   height: 22px;
