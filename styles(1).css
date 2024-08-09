@@ -37,6 +37,10 @@ body {
   width: 100vw;
   min-width: 1280px;
   min-height:560px ;
+  display: flex;
+  flex-wrap: nowrap;
+  justify-content: center;
+
 }
 
 .form_sketch {
@@ -48,8 +52,6 @@ body {
   width: 76%;
   height: 100vh;
   position: absolute;
-  left: 50%;
-  transform: translateX(-50%);
   z-index: 0;
   min-width: 972px;
   min-height:560px ;
